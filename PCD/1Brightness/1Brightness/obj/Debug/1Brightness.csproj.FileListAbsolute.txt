@@ -1,0 +1,10 @@
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\bin\Debug\1Brightness.exe.config
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\bin\Debug\1Brightness.exe
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\bin\Debug\1Brightness.pdb
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\1Brightness.csprojResolveAssemblyReference.cache
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\_1Brightness.Form1.resources
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\_1Brightness.Properties.Resources.resources
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\1Brightness.csproj.GenerateResource.cache
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\1Brightness.csproj.CoreCompileInputs.cache
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\1Brightness.exe
+D:\[I]Article\AroundInformatics\Program\PCD\1Brightness\1Brightness\obj\Debug\1Brightness.pdb
